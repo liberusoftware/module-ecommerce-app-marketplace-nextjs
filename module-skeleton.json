@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-app-marketplace-nextjs",
+  "capabilityKey": "planned:ecommerce:app-marketplace",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-ecommerce-app-marketplace-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/ecommerce/nextjs/app-marketplace.md",
+  "presentationPlan": "projects/ecommerce/nextjs/app-marketplace.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
